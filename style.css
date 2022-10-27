@@ -116,3 +116,42 @@ button {
     display: flex;
     justify-content: flex-end;
 }
+
+
+.banner {
+
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.box {
+    width: 1000px;
+    height: 100px;
+    background-color: #3882F6;
+    padding: 10px;
+    border: 20px;
+    margin: 30px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+.footer {
+
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
